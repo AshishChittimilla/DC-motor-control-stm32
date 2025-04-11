@@ -1,0 +1,14 @@
+# STM32CubeIDE build folders
+/Debug/
+/Release/
+
+# STM32Cube auto-generated files (optional)
+*.log
+*.bin
+*.elf
+*.hex
+*.ioc
+
+# Other temporary files
+*.swp
+*.tmp
